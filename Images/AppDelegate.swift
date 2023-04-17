@@ -1,13 +1,9 @@
-//
-//  AppDelegate.swift
-//  Images
-//
-//  Created by Cumulations Technologies Private Limited on 17/04/23.
-//
+
 
 import UIKit
 
 @main
+@available(iOS 13.0, *)
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
